@@ -13,7 +13,7 @@ Welcome to my Harry Potter themed quiz application, which I created to expand my
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command <i>"https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App"</i> to clone the repository to your local machine.
+2. Run the command <i>"git clone https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App"</i> to clone the repository to your local machine.
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
