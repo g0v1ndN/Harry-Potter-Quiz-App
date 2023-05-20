@@ -6,11 +6,11 @@
 }
 
 body{
-  background-image: linear-gradient(to right, #6345f3, #704bf5, #7c52f7, #8758fa, #915ffc);
+  background-color: #6649c2;
 }
 
 .app{
-  background-image: linear-gradient(to right, #704bf5, #7c52f7, #8758fa);
+  background-color: #6649c2;
   width: 90%;
   max-width: 600px;
   margin: 100px auto 0;
@@ -40,11 +40,12 @@ body{
 }
 
 .btn{
-  background: #fff;
-  color: #000;
-  font-weight: 525;
+  background: #6649c2;
+  color: #ffd700;
+  font-weight: 625;
   width: 100%;
-  border: 1px solid #000;
+  border: 1px solid #ffd700;
+  border-width: medium;
   padding: 10px;
   margin: 10px 0;
   text-align: left;
@@ -63,7 +64,7 @@ body{
 }
 
 #next-btn{
-  background: #7c52f7;
+  background: #6649c2;
   color: #ffd700;
   font-weight: 625;
   width: 150px;
