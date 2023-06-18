@@ -32,7 +32,11 @@ Here are a few features of this webpage.
 3. Double-click on the HTML file to open it in your default web browser. Alternatively, you can right-click on the file and select "Open With" to choose a specific web browser to open the file.
 
 ## Screenshots:
+
+<p align="center"><b>Question Bank</b></p>
 <img src="https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Questions.png" alt="Screenshot"/>
+<br>
+<p align="center"><b>Quiz Results</b></p>
 <img src="https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Final%20Score.png" alt="Screenshot"/>
 
 ## MIT License: 
