@@ -1,10 +1,10 @@
 # Harry-Potter-Quiz-App
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://img.shields.io/badge/HTML-%23E44D26" alt="HTML"/>
@@ -51,10 +51,10 @@ Here are a few features of this webpage.
 ## Screenshots:
 
 <p align="center"><b>Question Bank</b></p>
-<img src="https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Questions.png" alt="Screenshot"/>
+<img src="https://github.com/g0v1ndN/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Questions.png" alt="Screenshot"/>
 <br>
 <p align="center"><b>Quiz Results</b></p>
-<img src="https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Final%20Score.png" alt="Screenshot"/>
+<img src="https://github.com/g0v1ndN/Harry-Potter-Quiz-App/blob/main/images/Quiz%20App%20-%20Final%20Score.png" alt="Screenshot"/>
 
 ## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/Harry-Potter-Quiz-App/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/Harry-Potter-Quiz-App/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
