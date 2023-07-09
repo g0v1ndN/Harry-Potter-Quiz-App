@@ -1,4 +1,4 @@
-# Harry-Potter-Quiz-App
+# harry-potter-trivia
 <div align="left">
    <a href="https://opensource.org/osd">
       <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
