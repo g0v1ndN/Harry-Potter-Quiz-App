@@ -21,8 +21,7 @@
 Welcome to my Harry Potter themed quiz application, which I created to expand my knowledge of web development by exploring JavaScript. After gaining a better understanding of HTML and CSS, I wanted to challenge myself with a more dynamic and interactive project. This quiz application allowed me to delve into the world of JavaScript and learn how to create an engaging and user-friendly web application. As a fan of the Harry Potter books, I chose to make the quiz application themed around the series to add a fun and exciting element to the project.
 
 ## Features:
-Here are a few features of this webpage.
-1. The webpage has a main container div with class "app" which wraps all the content of the webpage.
+1. The webpage has a main conaitner div with class "app" which wraps all the content of the webpage.
 2. The webpage has a container with class "quiz" which contains the quiz question, answer options, and the next button.
 3. The quiz questions and possible answers are stored in an array of objects called questions in the JavaScript code.
 4. Each object in the questions array has a question property and an answers property. The answers property is an array of objects that contain text and correct properties. The text property is a string that represents a possible answer to the question, while the correct property is a boolean that indicates whether that answer is correct or not.
