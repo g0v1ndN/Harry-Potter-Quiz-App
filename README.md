@@ -61,5 +61,6 @@ Welcome to my Harry Potter themed quiz application, which I created to expand my
 <p align="center"><b>Quiz Results</b></p>
 <img src="https://github.com/g0v1ndN/harry-potter-trivia/blob/main/images/Quiz%20App%20-%20Final%20Score.png" alt="Screenshot"/>
 
-## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/harry-potter-trivia/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+## License: 
+This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/harry-potter-trivia/blob/main/LICENSE">LICENSE</a> document.
+
