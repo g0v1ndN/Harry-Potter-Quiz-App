@@ -63,4 +63,3 @@ Welcome to my Harry Potter themed quiz application, which I created to expand my
 
 ## License: 
 This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/harry-potter-trivia/blob/main/LICENSE">LICENSE</a> document.
-
