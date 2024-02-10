@@ -18,7 +18,7 @@
 </div>
 
 ## About:
-Welcome to my Harry Potter themed quiz application, which I created to expand my knowledge of web development by exploring JavaScript. After gaining a better understanding of HTML and CSS, I wanted to challenge myself with a more dynamic and interactive project. This quiz application allowed me to delve into the world of JavaScript and learn how to create an engaging and user-friendly web application. As a fan of the Harry Potter books, I chose to make the quiz application themed around the series to add a fun and exciting element to the project.
+This project is a web-based quiz application themed around the Harry Potter series. It utilizes JavaScript to create a dynamic and engaging user experience.
 
 ## Features:
 1. The webpage has a main conaitner div with class "app" which wraps all the content of the webpage.
